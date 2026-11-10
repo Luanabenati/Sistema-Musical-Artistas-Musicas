@@ -352,45 +352,6 @@ Sem frameworks e sem bibliotecas. Nesta fase, a única interação extra é o `c
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## ▶️ Como abrir o projeto
-
-<details open>
-<summary><b>⚡ Opção 1 — Direto no navegador (mais simples)</b></summary>
-
-<br>
-
-1. Baixe ou clone o repositório
-2. Dê dois cliques em **`login.html`**
-3. Navegue pelas telas usando os links e botões
-
-</details>
-
-<details>
-<summary><b>💻 Opção 2 — Clonando com Git</b></summary>
-
-<br>
-
-```bash
-git clone https://github.com/SEU-USUARIO/musica-vinycius.git
-cd musica-vinycius
-```
-
-Depois é só abrir o `login.html` no navegador.
-
-</details>
-
-<details>
-<summary><b>🌐 Opção 3 — Online com GitHub Pages</b></summary>
-
-<br>
-
-1. No repositório, vá em **Settings → Pages**
-2. Em *Branch*, escolha `main` e a pasta `/ (root)`
-3. Salve e aguarde o link de publicação aparecer
-
-</details>
-
-> ⚠️ Como ainda não há back-end, o botão **Entrar** não redireciona sozinho. Para continuar, abra o `index.html`.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -459,38 +420,6 @@ Depois é só abrir o `login.html` no navegador.
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
-## 🧭 Escopo desta entrega
-
-Esta é a **fase de front-end**. Por isso:
-
-- 📝 Os dados das tabelas (Djavan, Marisa Monte, “Título da Música”…) são **exemplos fixos**, só para mostrar o visual
-- 🔗 Os formulários estão **preparados** para um back-end, mas ainda não salvam nada
-- 🚪 O botão **Sair** aponta para `logout.php`, que será criado na fase de back-end
-- 🔐 A autenticação do login vem na próxima etapa
-
-### 🚀 Próximos passos
-
-- [ ] Back-end para salvar artistas e músicas
-- [ ] Autenticação real no login
-- [ ] Upload e redimensionamento das imagens
-- [ ] Filtros funcionando de verdade na biblioteca
-- [ ] Contadores do menu alimentados pelo banco de dados
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## 👥 Equipe
-
-<div align="center">
-
-| 👤 Integrante | 🎯 Função |
-|:---:|:---:|
-| **Vinycius Lopes Monteiro da Silva** | 💻 Desenvolvimento |
-
-<sub>Os nomes também estão no comentário no topo do `login.html`.</sub>
-
-<br>
 
 ### ⭐ Gostou do projeto? Deixe uma estrela no repositório!
 
